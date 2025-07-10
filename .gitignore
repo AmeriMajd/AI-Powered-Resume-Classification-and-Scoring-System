@@ -1,0 +1,7 @@
+venv\
+__pycache__\
+*.pyc
+*.pdf
+data/resumes/
+data/cleaned_resumes/
+.DS_Store
