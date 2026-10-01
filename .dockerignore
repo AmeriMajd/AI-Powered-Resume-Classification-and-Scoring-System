@@ -1,0 +1,12 @@
+.git
+.github
+.idea
+.venv
+venv
+**/__pycache__
+**/*.pyc
+**/node_modules
+frontapp/build
+FlaskApp/data
+*.pdf
+README.md

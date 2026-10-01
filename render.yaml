@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: resume-match-lab
+    runtime: docker
+    plan: free
+    autoDeployTrigger: commit
+    healthCheckPath: /api/health
